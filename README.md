@@ -1,10 +1,10 @@
 # MTCL-DTA
 A Multimodal DTA Prediction Method Based on Triple-view Contrastive Learning
 # Dependency
-Python3.8
-torch2.0.1
-Cuda11.7
-torch-geometric 2.0.4
+Python3.8  
+torch2.0.1  
+Cuda11.7  
+torch-geometric 2.0.4  
 rdkit 2022.03.2
 
 # Data
