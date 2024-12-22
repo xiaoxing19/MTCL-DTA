@@ -16,6 +16,7 @@ The target molecule graphs data is downloaded from https://drive.google.com/open
 /data/kiba/pconsc4
 
 # Pretrain Model
+Pre trained models are placed in the model folder  
 SMILES-BERT is downloaded from:https://huggingface.co/unikei/bert-base-smiles
 ESM-2 is downloaded from:https://huggingface.co/facebook/esm2_t6_8M_UR50D
 
